@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="5.576">
+           time="9.225">
     <properties></properties>
 
 
 
             <testcase
                 name="pet_id_E2E_testing_Ass_001"
-                time="5.576"
+                time="9.225"
                 classname="Assignment_001.petID_E2E">
             </testcase>
 </testsuite>
