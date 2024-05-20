@@ -12,9 +12,9 @@ public class petID_E2E {
     @Test
     public void pet_id_E2E_testing_Ass_001()
     {
-        create_Pet_ID("678");
-        validate_pet_id("678");
-        delete_Pet_Id("678");
+        create_Pet_ID("579");
+        validate_pet_id("579");
+        delete_Pet_Id("579");
 
 
     }
